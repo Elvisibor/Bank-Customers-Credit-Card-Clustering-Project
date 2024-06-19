@@ -1,4 +1,4 @@
-# Bank-Customers-Credit-Card-Clustering-Project
+# Bank Customers Credit Card Clustering Project
 
 # Project: AllLife Bank Customers' Credit Card Clustering.
 # A Clustering Project.
